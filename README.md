@@ -40,11 +40,6 @@
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"> 
-</div><br>
 </div>
 ## ⚙ 개발환경
 + Java 11 version
