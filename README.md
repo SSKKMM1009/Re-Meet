@@ -17,6 +17,7 @@
 
 ## 📝 개발언어
 #E34F26
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?
           style=flat&
           logo=Java&
