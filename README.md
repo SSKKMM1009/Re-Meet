@@ -1,4 +1,3 @@
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KyungMo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
@@ -15,6 +14,11 @@
 + 조다영(팀원, 백엔드) : 로그인, 회원가입, 마이페이지, 동아리가입 페이지 구현
 + 나상민(팀원, 백엔드) : 메인페이지, 서치페이지, 상세페이지
 + 하승우(팀원, 프론트엔드)
+
+## 📝 개발언어
+#E34F26
+<img src="https://img.shields.io/badge/JAVA-007396?
+          style=flat&logo=Java&logoColor=white"/>
 
 ## ⚙ 개발환경
 + Java 11 version
