@@ -1,6 +1,11 @@
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=KyungMo's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 
+#Team_project : Re-meet
+
+##💻프로젝트 소개
+동아리 모임을 희망하는 사람을 매칭 해주는 웹사이트 및 어플 구현
 
 
 JDK 11 version
