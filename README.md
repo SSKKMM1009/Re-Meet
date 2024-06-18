@@ -1,4 +1,12 @@
-![header](https://capsule-render.vercel.app/api? 헤더에 capsule-render api사용을 명시적으로 적어준 후
+![header](https://capsule-render.vercel.app/api?
+type=wave&
+color=auto&
+height=300&
+section=header&t
+ext=capsule%20render&
+fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?
 
 type=waving& //파도 모양
 
