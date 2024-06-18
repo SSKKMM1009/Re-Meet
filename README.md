@@ -21,7 +21,7 @@
           style=flat&
           logo=Java&
           logoColor=white"/>
-<img src="https://img.shields.io/badge/html5?style=flat&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/HTML5?style=flat&logo=html5&logoColor=E34F26"/>
 
 ## ⚙ 개발환경
 + Java 11 version
